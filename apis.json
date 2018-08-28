@@ -1,0 +1,147 @@
+{
+	"name": "Streadata.io API Gallery - Extraction",
+	"description": "This is a repository of extraction APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/extraction.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-27",
+	"url": "http://extraction.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "Diffbot",
+			"x-api-slug": "diffbot",
+			"description": "Never write another web scraper. Diffbot automates web data extraction from any website using AI, computer vision, &amp; machine learning.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/181-diffbot.jpg",
+			"humanURL": "http://www.diffbot.com/our-apis/follow/",
+			"baseURL": "https:////",
+			"tags": "Extraction",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/extraction/master/_listings/diffbot/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "46elks",
+			"x-api-slug": "46elks",
+			"description": "Adding SMS and Voice to your application or service should be easy. Phone calls, SMS & MMS in one easy API. For developers, built by developers.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/289-46elks.jpg",
+			"humanURL": "http://46elks.com/",
+			"baseURL": "https:///",
+			"tags": "Extraction",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/extraction/master/_listings/46elks/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "NewsCred",
+			"x-api-slug": "newscred",
+			"description": "NewsCred is the leading enterprise content marketing company. NewsCred delivers content marketing solutions that drive business results for top brands",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/869-newscred.jpg",
+			"humanURL": "http://newscred.com",
+			"baseURL": "https://api.newscred.com//",
+			"tags": "Extraction",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/extraction/master/_listings/newscred/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Strongsteam",
+			"x-api-slug": "strongsteam",
+			"description": "",
+			"image": "",
+			"humanURL": "http://strongsteam.com/",
+			"baseURL": "https:///",
+			"tags": "Extraction",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/extraction/master/_listings/strongsteam/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Import.io",
+			"x-api-slug": "import-io",
+			"description": "Home Page - Import.io - Web Scraping, Data Extraction and Web Harvesting",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1728-import-io.jpg",
+			"humanURL": "https://www.import.io/",
+			"baseURL": "https://schedule.import.io//",
+			"tags": "Extraction",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/extraction/master/_listings/import-io/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Datumbox",
+			"x-api-slug": "datumbox",
+			"description": "Build quickly and easily Intelligent Applications by using the power of Machine Learning!",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11516-datumbox.jpg",
+			"humanURL": "http://datumbox.com",
+			"baseURL": "https://api.datumbox.com/1.0/",
+			"tags": "Extraction",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/extraction/master/_listings/datumbox/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "ParallelDots",
+			"x-api-slug": "paralleldots",
+			"description": "ParallelDots is one of the best applied AI research groups in the world. We work with enterprises globally to tackle challenging business problems and create the winners of tomorrow. We also provide AI consulting services to explore the what, why, how and who about deploying AI in businesses. Try-out our cutting edge text analysis APIs and join the community of 1,000+ global users. Contact us at contact@paralleldots.com and tell us about the challenging business problems that you are facing.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/paralleldots-logo.png",
+			"humanURL": "https://www.paralleldots.com/",
+			"baseURL": "https://apis.paralleldots.com//v3",
+			"tags": "Extraction",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/extraction/master/_listings/paralleldots/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "Extraction",
+	"include": [
+		{
+			"name": "Diffbot",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/extraction/master/_listings/diffbot/apis.yaml"
+		},
+		{
+			"name": "46elks",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/extraction/master/_listings/46elks/apis.yaml"
+		},
+		{
+			"name": "NewsCred",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/extraction/master/_listings/newscred/apis.yaml"
+		},
+		{
+			"name": "Strongsteam",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/extraction/master/_listings/strongsteam/apis.yaml"
+		},
+		{
+			"name": "Import.io",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/extraction/master/_listings/import-io/apis.yaml"
+		},
+		{
+			"name": "Datumbox",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/extraction/master/_listings/datumbox/apis.yaml"
+		},
+		{
+			"name": "ParallelDots",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/extraction/master/_listings/paralleldots/apis.yaml"
+		}
+	]
+}
